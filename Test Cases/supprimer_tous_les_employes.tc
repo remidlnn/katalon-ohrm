@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Supprime l'ensemble des employés</description>
+   <name>supprimer_tous_les_employes</name>
+   <tag>employé</tag>
+   <comment></comment>
+   <testCaseGuid>86ac9c85-0558-4115-886e-a03bd5fd7a39</testCaseGuid>
+</TestCaseEntity>

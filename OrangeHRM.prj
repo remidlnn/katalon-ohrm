@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description>Test du logiciel OrangeHRM pour démonstration de Katalon</description>
+   <name>OrangeHRM</name>
+   <tag></tag>
+   <UUID>5ed6c839-5414-4db0-b57c-050c2ef26fcb</UUID>
+   <pageLoadTimeout>30</pageLoadTimeout>
+</Project>

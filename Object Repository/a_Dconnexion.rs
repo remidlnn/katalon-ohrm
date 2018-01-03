@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Dconnexion</name>
+   <tag></tag>
+   <elementGuidId>7f316b3d-6cf2-4564-b49f-1fe60e3216c0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[count(. | //*[@href = '/OrangeHRM/symfony/web/index.php/auth/logout']) = count(//*[@href = '/OrangeHRM/symfony/web/index.php/auth/logout'])][count(. | //*[text() = 'Déconnexion']) = count(//*[text() = 'Déconnexion'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/OrangeHRM/symfony/web/index.php/auth/logout</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Déconnexion</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;welcome-menu&quot;)/ul[1]/li[3]/a[1]</value>
+   </webElementProperties>
+</WebElementEntity>
