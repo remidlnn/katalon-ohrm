@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ajoute un poste</description>
+   <name>ajouter_poste</name>
+   <tag>poste</tag>
+   <comment></comment>
+   <testCaseGuid>8609f586-4171-4032-b218-482ab611a1aa</testCaseGuid>
+</TestCaseEntity>

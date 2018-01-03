@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
-   <description>Ajouter un employé et supprimer l'ensemble des employés</description>
-   <name>SCE_ajouter_supprimer_employe</name>
+   <description>Ajoute 1 poste puis supprime l'ensemble des postes</description>
+   <name>SCE_ajouter_supprimer_tous_les_postes</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <lastRun>2018-01-03T11:05:39</lastRun>
+   <lastRun>2018-01-03T11:47:26</lastRun>
    <mailRecipient></mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
-   <testSuiteGuid>323c9654-207b-428d-9753-9ba8bc9acd77</testSuiteGuid>
+   <testSuiteGuid>82289e58-5caa-427e-a699-9053d64d9acf</testSuiteGuid>
    <testCaseLink>
-      <guid>1d909081-645b-4ef7-a8a5-b1728b1ec71c</guid>
+      <guid>2b1b0b33-e01f-4f8d-9a50-1869a6f12b9b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/ajouter_employe</testCaseId>
+      <testCaseId>Test Cases/ajouter_poste</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>a2659159-864c-4e52-aab3-e24d3cbd3ce0</guid>
+      <guid>81e1365c-2e40-46cf-8aaa-36c58c8d03e1</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/supprimer_tous_les_employes</testCaseId>
+      <testCaseId>Test Cases/supprimer_tous_les_postes</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
